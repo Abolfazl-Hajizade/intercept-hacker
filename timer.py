@@ -22,7 +22,7 @@ s = 0
 while True:
 	try:
 		h = input(C+'\nHours'+ R +' : '+W)
-		m = input(C+'daghighe'+ R + ' : '+W)
+		m = input(C+'minute'+ R + ' : '+W)
 		break	
 	except:
 		print R+'\njust number !\n'+W
